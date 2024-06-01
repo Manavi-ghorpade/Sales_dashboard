@@ -3,7 +3,7 @@ This dataset contains a list of video games with sales greater than 100,000 copi
 
 Link to dashboard - [Tableau Dashboard](https://public.tableau.com/app/profile/manavi.ghorpade/viz/salesdashboard_17172205692650/Dashboard1?publish=yes)
 
-![imaage](Dashboard 1.png)
+![imaage](https://github.com/Manavi-ghorpade/Sales_dashboard/blob/main/Dashboard%201.png)
 
 
 
