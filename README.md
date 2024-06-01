@@ -5,7 +5,7 @@ It is an interactive dashboard where you can choose region, start date and end d
 
 Link to dashboard - [Tableau Dashboard](https://public.tableau.com/app/profile/manavi.ghorpade/viz/salesdashboard_17172205692650/Dashboard1?publish=yes)
 
-![imaage](https://github.com/Manavi-ghorpade/Sales_dashboard/blob/main/Dashboard%201.png)
+![imaage](https://github.com/Manavi-ghorpade/Sales_dashboard/blob/main/Dashboard.png)
 
 
 
