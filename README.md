@@ -25,6 +25,7 @@ Welcome to my Video Game Sales Analysis Dashboard! This interactive dashboard vi
 - **BeautifulSoup**: Used for scraping the video game sales data.
 - **Tableau**: Utilized for creating and publishing the interactive dashboard.
 - **Python**: For data processing and cleaning before visualization.
+- **Machine learning models**: RNN, Random Forest, LSTM
 
 ## Key Insights
 
